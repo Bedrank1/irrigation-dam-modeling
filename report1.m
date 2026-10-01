@@ -1,6 +1,4 @@
 %% Report_1.m  -  Irrigation Dam Model (Q1 - Q6)
-% Kodlar Report_1.docx icindeki resimlerden aktarilmistir.
-% Her bolum %% ile ayrilmistir; bolumleri tek tek calistirabilirsiniz.
 clear; clc; close all;
 
 %% Q1) Dam volume, V0 = 270 (Figure 1.1)
